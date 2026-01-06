@@ -17,3 +17,6 @@ nvcc --version
 <img width="2002" height="1606" alt="image" src="https://github.com/user-attachments/assets/9263a3b2-b0b1-4ea4-bf6c-293a200e44d8" />
 
 3. install pytorch
+```bash
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+```
