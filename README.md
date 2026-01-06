@@ -1,4 +1,3 @@
-<img width="2002" height="1606" alt="image" src="https://github.com/user-attachments/assets/e51ede90-9f87-4f77-8d7a-c2d76714f3f3" /># MNIST-based-PTQ-and-QAT-practice
 This repository is for practice Quantization specifically PTQ (Post-training Quantization) and QAT (Quantization-aware training) with MNIST dataset
 
 ## Setting
