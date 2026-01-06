@@ -8,3 +8,9 @@ pip install jupyterlab matplotlib tqdm
 # install pytorch
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126 # You should install apropriate pytorch from https://pytorch.org/get-started/locally/
 ```
+### How to install appropriate pytorch?
+1. check your CUDA version
+```bash
+# You can check your CUDA version by below command
+nvcc --version
+```
