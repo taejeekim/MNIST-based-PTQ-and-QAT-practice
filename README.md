@@ -14,7 +14,7 @@ pip install jupyterlab matplotlib tqdm
 nvcc --version
 ```
 2. Go to pytroch installation site and click appropriate setting
-<img width="1001" height="803" alt="image" src="https://github.com/user-attachments/assets/9263a3b2-b0b1-4ea4-bf6c-293a200e44d8" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9263a3b2-b0b1-4ea4-bf6c-293a200e44d8" />
 
 3. install pytorch
 ```bash
