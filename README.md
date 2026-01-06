@@ -1,16 +1,16 @@
-# MNIST-based-PTQ-and-QAT-practice
+<img width="2002" height="1606" alt="image" src="https://github.com/user-attachments/assets/e51ede90-9f87-4f77-8d7a-c2d76714f3f3" /># MNIST-based-PTQ-and-QAT-practice
 This repository is for practice Quantization specifically PTQ (Post-training Quantization) and QAT (Quantization-aware training) with MNIST dataset
 
 ## Setting
 ```bash
 conda create -n quant python=3.10; conda activate quant
 pip install jupyterlab matplotlib tqdm
-# install pytorch
-pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126 # You should install apropriate pytorch from https://pytorch.org/get-started/locally/
-```
+#install Pytorch (see below)
 ### How to install appropriate pytorch?
 1. check your CUDA version
 ```bash
 # You can check your CUDA version by below command
 nvcc --version
 ```
+2. Go to pytroch installation site and click appropriate setting
+<img width="2002" height="1606" alt="image" src="https://github.com/user-attachments/assets/9263a3b2-b0b1-4ea4-bf6c-293a200e44d8" />
