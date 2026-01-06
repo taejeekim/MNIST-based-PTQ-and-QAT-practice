@@ -6,4 +6,5 @@ This repository is for practice Quantization specifically PTQ (Post-training Qua
 conda create -n quant python=3.10; conda activate quant
 pip install jupyterlab matplotlib tqdm
 # install pytorch
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126 # You should install apropriate pytorch from https://pytorch.org/get-started/locally/
 ```
