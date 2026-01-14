@@ -3,7 +3,7 @@ This repository is for practice Quantization specifically PTQ (Post-training Qua
 ## Setting
 ```bash
 conda create -n quant python=3.10; conda activate quant
-pip install jupyterlab matplotlib tqdm
+pip install jupyterlab
 #install Pytorch (see below)
 ```
 
