@@ -22,3 +22,8 @@ nvcc --version
 ```bash
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
 ```
+
+4. clone repository
+```bash
+git clone https://github.com/taejeekim/MNIST-based-PTQ-and-QAT-practice.git
+```
